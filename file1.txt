@@ -1,0 +1,4 @@
+my file 1
+This is new line in file 1.
+bla bla bla
+

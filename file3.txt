@@ -1,0 +1,2 @@
+My file 3
+add this line in file 3 
