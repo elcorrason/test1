@@ -1,1 +1,2 @@
-my file 2
+My added text in file 2
+Second added string in the end
